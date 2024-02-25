@@ -46,7 +46,7 @@ From the foundations of ghost sensing, you'll progress to sophisticated inferenc
 While this project was primarily an academic exercise, contributions or suggestions for improvements are welcome. Please open an issue or a pull request if you have suggestions.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the https://inst.eecs.berkeley.edu/~cs188/sp22/projects/ file for details.
 
 ## Acknowledgments
 - Course staff and fellow students for their support and feedback.
